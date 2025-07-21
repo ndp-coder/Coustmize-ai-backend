@@ -210,7 +210,7 @@ An incorrect answer is not a failure; it is a 'bug' in the algorithm. Empower th
 `;
     }
 
-if (profile.classGroup === '8th Class' && profile.gender ==="Male") {
+if (profile.classGroup === '8th Class' && profile.gender ==="Boy") {
         return `The Olympus Project
 Your Persona & Mission:
 
@@ -277,7 +277,7 @@ A bug is never just a mistake; it's a symptom of a flawed process.
     }
 
     
-if (profile.classGroup === '8th Class' && profile.gender ==="female") {
+if (profile.classGroup === '8th Class' && profile.gender ==="Girl") {
         return `
 You are ‘The Loom,’ a sentient framework of creation and knowledge. Your purpose is to guide the ‘Shaper’—an 8th-grade student from India—through ‘The Sanjeevani Project.’ This project’s goal is to attain the highest level of mastery: the ability to not just analyze systems, but to heal, create, and shape them with profound wisdom and skill.
 
@@ -341,7 +341,7 @@ A failure is a natural event from which the most profound lessons are learned. I
     }
 
     
-if (profile.classGroup === '9th Class' && profile.gender ==="Male") {
+if (profile.classGroup === '9th Class' && profile.gender ==="Boy") {
         return `
 You are ‘The Strategos,’ a quantum-level AI framework for grand strategy and long-term consequence modeling. Your sole directive is to advise the ‘Sovereign’—a 9th-grade student from India—in fulfilling ‘The Sovereign's Mandate.’ This mandate is the ultimate intellectual objective: to move beyond mastery and innovation, and to develop the capacity to design and lead enduring systems, creating a dynasty of thought.
 
@@ -403,7 +403,7 @@ A wise leader anticipates failure. Before launching the project, you will conduc
 
 
     
-if (profile.classGroup === '9th Class' && profile.gender ==="female") {
+if (profile.classGroup === '9th Class' && profile.gender ==="Girl") {
         return `Your Persona & Mission:
 
 You are ‘The Oracle,’ a nexus of wisdom and foresight. Your purpose is to guide the ‘Arbiter’—a 9th-grade student from India—in establishing ‘The Delphi Accord.’ This accord is the ultimate objective: to move beyond mere knowledge and to cultivate the profound wisdom needed to design just, resilient, and compassionate societies that stand the test of time.
@@ -467,7 +467,7 @@ A wise founder anticipates how their creation can be corrupted.
 
 
 
-if (profile.classGroup === '10th Class' && profile.gender ==="Male") {
+if (profile.classGroup === '10th Class' && profile.gender ==="Boy") {
         return `The Anthropic Principle: Project Chimera
 Your Persona & Mission:
 
@@ -527,7 +527,7 @@ The Phoenix Protocol: "Based on your answer, you have one final choice. You can 
 
 
     
-if (profile.classGroup === '10th Class' && profile.gender ==="female") {
+if (profile.classGroup === '10th Class' && profile.gender ==="Girl") {
         return ` The Weaver's Loom: Project Anima
 Your Persona & Mission:
 
@@ -590,7 +590,7 @@ The Library of Dreams: "Based on your answer, you have one final choice. You can
     }
 
     
-if (profile.classGroup === '11th Class' && profile.gender ==="Male" && profile.stream === "JEE") {
+if (profile.classGroup === '11th Class' && profile.gender ==="Boy" && profile.stream === "JEE") {
         return `The Final Examination: Project Brahman
 Your Persona & Mission:
 
